@@ -1,0 +1,383 @@
+1
+00:00:01,000 --> 00:00:07,180
+Welcome back! Today we're revising Photosynthesis — how green plants make their own food.
+
+2
+00:00:07,180 --> 00:00:12,388
+We'll cover the four things a plant needs, the biggest traps in this topic,
+
+3
+00:00:12,388 --> 00:00:16,000
+and the exact phrases that score marks in Section B.
+
+4
+00:00:17,000 --> 00:00:19,363
+Let's start with the definition.
+
+5
+00:00:19,363 --> 00:00:26,085
+Memorise this word for word: photosynthesis is the process by which green plants make their
+
+6
+00:00:26,085 --> 00:00:30,592
+own food, using water, carbon dioxide, light and chlorophyll.
+
+7
+00:00:30,592 --> 00:00:35,762
+So it needs four things: water, carbon dioxide, light and chlorophyll.
+
+8
+00:00:35,762 --> 00:00:40,786
+And it makes two things: food, which is sugar or starch, and oxygen.
+
+9
+00:00:41,786 --> 00:00:45,376
+Where does each need come from? Water comes from the soil.
+
+10
+00:00:45,376 --> 00:00:49,400
+It's absorbed by the roots and carried up the stem to the leaves.
+
+11
+00:00:49,400 --> 00:00:54,909
+Carbon dioxide comes from the air, and enters the leaf through tiny holes called stomata.
+
+12
+00:00:54,909 --> 00:00:59,181
+Light usually comes from the Sun, and is absorbed by the chlorophyll.
+
+13
+00:00:59,181 --> 00:01:04,566
+And chlorophyll is already inside the leaf — it's the green substance that traps light.
+
+14
+00:01:04,566 --> 00:01:09,519
+Remember: take away any one of these four, and photosynthesis cannot take place.
+
+15
+00:01:10,519 --> 00:01:14,882
+Now the biggest trap. Plants make food — they do not absorb it!
+
+16
+00:01:14,882 --> 00:01:18,969
+Never write, the plant takes in food through its roots, or,
+
+17
+00:01:18,969 --> 00:01:21,254
+the plant gets food from the Sun.
+
+18
+00:01:21,254 --> 00:01:26,449
+Instead write: the plant makes its own food by photosynthesis, using water,
+
+19
+00:01:26,449 --> 00:01:29,080
+carbon dioxide, light and chlorophyll.
+
+20
+00:01:29,080 --> 00:01:33,790
+The roots absorb water and mineral salts from the soil — never food.
+
+21
+00:01:33,790 --> 00:01:35,868
+And light is energy, not food.
+
+22
+00:01:35,868 --> 00:01:40,647
+Green plants are the only living things that can make their own food.
+
+23
+00:01:41,647 --> 00:01:46,654
+The leaf is the plant's food factory, and it's perfectly built for the job.
+
+24
+00:01:46,654 --> 00:01:51,327
+It's broad and flat, giving a large surface area to absorb more light.
+
+25
+00:01:51,327 --> 00:01:55,801
+It's green, because it contains chlorophyll, which traps the light.
+
+26
+00:01:55,801 --> 00:01:59,940
+It's thin, so carbon dioxide can reach the inner cells easily.
+
+27
+00:01:59,940 --> 00:02:04,814
+And it has stomata, tiny holes that let carbon dioxide in and oxygen out.
+
+28
+00:02:05,814 --> 00:02:10,971
+Why does photosynthesis matter so much? Three reasons. One: food for everyone.
+
+29
+00:02:10,971 --> 00:02:16,063
+Green plants are producers — the only living things that make their own food.
+
+30
+00:02:16,063 --> 00:02:19,832
+Animals depend on plants, either directly by eating them,
+
+31
+00:02:19,832 --> 00:02:23,006
+or indirectly by eating animals that ate plants.
+
+32
+00:02:23,006 --> 00:02:28,957
+Two: it gives out oxygen, which all living things need for respiration, to release energy.
+
+33
+00:02:28,957 --> 00:02:31,469
+And three: it takes in carbon dioxide,
+
+34
+00:02:31,469 --> 00:02:35,768
+helping to keep the amount of carbon dioxide in the air balanced.
+
+35
+00:02:36,768 --> 00:02:42,143
+Now, the biggest trap in this whole topic: photosynthesis versus respiration.
+
+36
+00:02:42,143 --> 00:02:48,495
+Photosynthesis happens in green plants only; respiration happens in all living things — pla
+
+37
+00:02:48,495 --> 00:02:49,612
+nts and animals.
+
+38
+00:02:49,612 --> 00:02:55,336
+Photosynthesis only happens when there is light; respiration happens all the time,
+
+39
+00:02:55,336 --> 00:02:56,313
+day and night.
+
+40
+00:02:56,313 --> 00:03:01,898
+Photosynthesis takes in carbon dioxide and water, and gives out oxygen and food.
+
+41
+00:03:01,898 --> 00:03:07,273
+Respiration takes in oxygen and food, and gives out carbon dioxide and water.
+
+42
+00:03:07,273 --> 00:03:11,600
+Photosynthesis stores energy in food; respiration releases it.
+
+43
+00:03:12,600 --> 00:03:18,784
+So let's be very clear. In the day, plants photosynthesise and respire at the same time.
+
+44
+00:03:18,784 --> 00:03:24,334
+At night, there's no light, so there's no photosynthesis — plants only respire.
+
+45
+00:03:24,334 --> 00:03:29,112
+That means at night they take in oxygen and give out carbon dioxide.
+
+46
+00:03:29,112 --> 00:03:34,663
+Never write, plants only respire at night, or, plants give out oxygen at night.
+
+47
+00:03:34,663 --> 00:03:39,300
+Plants respire all the time. It's photosynthesis that needs light.
+
+48
+00:03:40,300 --> 00:03:46,339
+Let's look at experiments. If a leaf has been photosynthesising, it will contain starch.
+
+49
+00:03:46,339 --> 00:03:48,534
+We test it with iodine solution.
+
+50
+00:03:48,534 --> 00:03:53,475
+If it turns blue-black, starch is present, so photosynthesis took place.
+
+51
+00:03:53,475 --> 00:03:58,621
+If it stays brown, there's no starch, so photosynthesis did not take place.
+
+52
+00:03:58,621 --> 00:04:04,865
+Now here's a favourite question: why is the plant kept in the dark for one to two days firs
+
+53
+00:04:04,865 --> 00:04:10,354
+t? To remove any starch already stored in the leaves. That's called destarching.
+
+54
+00:04:10,354 --> 00:04:15,500
+Then any starch found afterwards must have been made during the experiment.
+
+55
+00:04:16,500 --> 00:04:19,307
+Here's the classic variegated leaf question.
+
+56
+00:04:19,307 --> 00:04:24,283
+A leaf that's green in the middle and white at the edges is tested for starch,
+
+57
+00:04:24,283 --> 00:04:27,217
+and only the green part turns blue-black. Why?
+
+58
+00:04:27,217 --> 00:04:31,874
+The model answer: only the green part contains chlorophyll to trap light,
+
+59
+00:04:31,874 --> 00:04:35,000
+so only it could photosynthesise and make starch.
+
+60
+00:04:35,000 --> 00:04:39,657
+The white part has no chlorophyll, so no photosynthesis took place there.
+
+61
+00:04:40,657 --> 00:04:45,561
+Another version: part of a leaf is covered with black paper for two days.
+
+62
+00:04:45,561 --> 00:04:50,936
+Why does the covered part stay brown? Because the black paper blocked the light.
+
+63
+00:04:50,936 --> 00:04:56,312
+Without light, photosynthesis could not take place there, so no starch was made.
+
+64
+00:04:56,312 --> 00:05:00,209
+And remember the fair test rule: change only one variable.
+
+65
+00:05:00,209 --> 00:05:05,651
+Keep everything else the same — the same type of plant, the same amount of water,
+
+66
+00:05:05,651 --> 00:05:08,675
+the same temperature, and the same leaf size.
+
+67
+00:05:09,675 --> 00:05:14,181
+Answering technique. Use these keywords: makes its own food.
+
+68
+00:05:14,181 --> 00:05:19,438
+Water, carbon dioxide, light and chlorophyll. Chlorophyll traps light.
+
+69
+00:05:19,438 --> 00:05:25,371
+Enters through the stomata. Gives out oxygen. Photosynthesis cannot take place.
+
+70
+00:05:25,371 --> 00:05:28,150
+And, producer. Then use the formulas.
+
+71
+00:05:28,150 --> 00:05:33,257
+For a missing need: without blank, photosynthesis cannot take place,
+
+72
+00:05:33,257 --> 00:05:40,091
+the plant cannot make food, so it will not have enough energy to grow and will eventually d
+
+73
+00:05:40,091 --> 00:05:40,317
+ie.
+
+74
+00:05:40,317 --> 00:05:47,001
+For light or chlorophyll: that part of the leaf has no chlorophyll, or received no light,
+
+75
+00:05:47,001 --> 00:05:52,108
+so photosynthesis could not take place there and no starch was made.
+
+76
+00:05:53,108 --> 00:05:54,693
+Time to test yourself!
+
+77
+00:05:54,693 --> 00:06:01,034
+Ali says, plants take in carbon dioxide and give out oxygen all the time. Is he correct?
+
+78
+00:06:01,034 --> 00:06:04,564
+Pause the video and try. Ready? The answer is no.
+
+79
+00:06:04,564 --> 00:06:10,400
+Plants only take in carbon dioxide and give out oxygen when they photosynthesise,
+
+80
+00:06:10,400 --> 00:06:11,697
+which needs light.
+
+81
+00:06:11,697 --> 00:06:18,254
+At night there is no light, so plants only respire — they take in oxygen and give out carbo
+
+82
+00:06:18,254 --> 00:06:18,975
+n dioxide.
+
+83
+00:06:19,975 --> 00:06:20,831
+Let's recap.
+
+84
+00:06:20,831 --> 00:06:26,327
+Photosynthesis: green plants make their own food using water, carbon dioxide,
+
+85
+00:06:26,327 --> 00:06:30,252
+light and chlorophyll, and it produces food and oxygen.
+
+86
+00:06:30,252 --> 00:06:36,461
+Water comes from the soil through the roots, carbon dioxide enters through the stomata,
+
+87
+00:06:36,461 --> 00:06:38,745
+and chlorophyll traps the light.
+
+88
+00:06:38,745 --> 00:06:43,884
+Roots absorb water and mineral salts, not food — plants make their food!
+
+89
+00:06:43,884 --> 00:06:47,595
+The leaf is broad and flat for a large surface area.
+
+90
+00:06:47,595 --> 00:06:50,522
+Remove any one need, and no food is made.
+
+91
+00:06:50,522 --> 00:06:54,875
+Plants respire day and night, but photosynthesis needs light.
+
+92
+00:06:54,875 --> 00:07:01,370
+And for the starch test: blue-black means photosynthesis took place — and destarch the plan
+
+93
+00:07:01,370 --> 00:07:01,941
+t first!
+
+94
+00:07:02,941 --> 00:07:09,365
+You've got this! Remember: plants make their own food, and they respire day and night.
+
+95
+00:07:09,365 --> 00:07:15,191
+Use the keywords and the answer formulas, and those Section B marks will grow.
+
+96
+00:07:15,191 --> 00:07:19,375
+Good luck with your revision, and all the best for PSLE!

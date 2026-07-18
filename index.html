@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fun Science PSLE — Videos, Study Guides & Games</title>
+<meta name="description" content="Free PSLE Science revision for Primary 5 & 6 — narrated videos, study guides and games for Heat, Water Cycle, Photosynthesis, and the Human Body.">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#faf9f5; --ink:#232742; --indigo:#3f42ab; --indigo-soft:#e8e9f8;
+  --amber:#f59e0b; --card:#ffffff; --line:#e4e2d9; --shadow:0 6px 24px rgba(35,39,66,.10);
+}
+*{box-sizing:border-box; margin:0; padding:0; -webkit-tap-highlight-color:transparent;}
+body{font-family:'Poppins',sans-serif; background:var(--bg); color:var(--ink); min-height:100vh; overflow-x:hidden;}
+a{text-decoration:none; color:inherit;}
+
+.bgfx{position:fixed; inset:0; pointer-events:none; z-index:0; overflow:hidden;}
+.bgfx span{position:absolute; bottom:-60px; opacity:.14; animation:rise linear infinite;}
+@keyframes rise{to{transform:translateY(-115vh) rotate(360deg);}}
+.blob{position:fixed; border-radius:50%; z-index:0; pointer-events:none; filter:blur(2px);}
+.b1{width:340px;height:340px;background:var(--indigo-soft);top:-130px;right:-120px;animation:drift 15s ease-in-out infinite alternate;}
+.b2{width:260px;height:260px;background:#fde9de;bottom:-110px;left:-100px;animation:drift 19s ease-in-out infinite alternate-reverse;}
+@keyframes drift{to{transform:translate(30px,26px) scale(1.08);}}
+
+.wrap{max-width:920px; margin:0 auto; padding:24px 18px 80px; position:relative; z-index:1;}
+.hero{text-align:center; padding:30px 10px 10px;}
+.mascot{width:120px;height:120px;margin:0 auto;animation:bob 2.6s ease-in-out infinite;}
+@keyframes bob{0%,100%{transform:translateY(0) rotate(-2deg);}50%{transform:translateY(-12px) rotate(2deg);}}
+.hero h1{font-size:clamp(2.4rem,8vw,3.6rem); font-weight:800; color:var(--indigo); line-height:1.05; margin-top:6px;}
+.hero h1 em{font-style:normal; color:var(--amber);}
+.hero .tag{margin:12px auto 0; max-width:580px; font-weight:500; color:#4c5070; font-size:1.05rem;}
+.hero .sub{margin-top:6px; font-weight:600; color:var(--indigo); font-size:.95rem;}
+
+.grid{display:grid; grid-template-columns:1fr 1fr; gap:16px; margin-top:30px;}
+@media(max-width:600px){.grid{grid-template-columns:1fr;}}
+.game{background:var(--card); border:3px solid var(--line); border-radius:22px; padding:22px; transition:.16s; position:relative; overflow:hidden;}
+.game:hover{transform:translateY(-5px); box-shadow:var(--shadow); border-color:var(--c);}
+.game .stripe{position:absolute; top:0; left:0; right:0; height:8px; background:var(--c);}
+.game .ic{font-size:2.8rem;}
+.game .topic{font-size:.78rem; font-weight:700; letter-spacing:.06em; text-transform:uppercase; margin-top:6px; color:var(--c);}
+.game h2{font-size:1.35rem; font-weight:800; margin-top:2px; color:var(--c);}
+.game p{font-size:.88rem; color:#4c5070; margin-top:8px; line-height:1.5;}
+.links{display:flex; gap:8px; margin-top:14px; flex-wrap:wrap;}
+.links a{font-size:.82rem; font-weight:700; padding:8px 14px; border-radius:999px; border:2px solid var(--line); color:#4c5070; transition:.12s;}
+.links a.play{background:var(--c); color:#fff; border-color:var(--c);}
+.links a:hover{transform:translateY(-2px); border-color:var(--c); color:var(--c);}
+.links a.play:hover{color:#fff;}
+
+.heat {--c:#ea642c;} .water{--c:#3478c6;} .plant{--c:#3a964a;} .body{--c:#d6456e;}
+
+.how{background:var(--indigo-soft); border-radius:22px; padding:22px 24px; margin-top:30px; text-align:center;}
+.how h3{color:var(--indigo); font-size:1.15rem;}
+.how .rows{display:flex; justify-content:center; gap:26px; flex-wrap:wrap; margin-top:14px;}
+.how .r{max-width:230px;}
+.how .r .e{font-size:1.8rem;}
+.how .r b{display:block; color:var(--indigo); margin-top:4px;}
+.how .r span{font-size:.85rem; color:#4c5070;}
+
+.foot{text-align:center; margin-top:30px; color:#9a988f; font-size:.85rem; line-height:1.6;}
+.foot b{color:var(--indigo);}
+</style>
+</head>
+<body>
+<div class="bgfx" id="bgfx"></div>
+<div class="blob b1"></div><div class="blob b2"></div>
+
+<div class="wrap">
+  <div class="hero">
+    <svg class="mascot" viewBox="0 0 120 120">
+      <defs><linearGradient id="mg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7c7fe0"/><stop offset="1" stop-color="#3f42ab"/></linearGradient></defs>
+      <circle cx="60" cy="60" r="46" fill="url(#mg)" stroke="#232742" stroke-width="4"/>
+      <circle cx="46" cy="54" r="7" fill="#fff"/><circle cx="74" cy="54" r="7" fill="#fff"/>
+      <circle cx="46" cy="55" r="3.4" fill="#232742"/><circle cx="74" cy="55" r="3.4" fill="#232742"/>
+      <path d="M44 74 Q60 88 76 74" stroke="#fff" stroke-width="4.5" fill="none" stroke-linecap="round"/>
+      <path d="M60 8 L60 20 M30 20 L37 28 M90 20 L83 28" stroke="#f59e0b" stroke-width="4" stroke-linecap="round"/>
+    </svg>
+    <h1>Fun Science <em>PSLE</em></h1>
+    <p class="tag">Free Primary Science revision — narrated <b>videos</b>, printable <b>study guides</b>, and fun <b>games</b> for every topic.</p>
+    <p class="sub">🎬 Watch · 📄 Read · 🎮 Play solo or duel a friend</p>
+  </div>
+
+  <div class="grid">
+    <div class="game heat">
+      <div class="stripe"></div>
+      <div class="ic">🔥</div>
+      <div class="topic">P5 Energy</div>
+      <h2>Heat &amp; Its Effects</h2>
+      <p>Heat vs temperature, how heat travels, expansion, change of state, conductors &amp; insulators.</p>
+      <div class="links">
+        <a class="play" href="./heatquest/index.html">Open topic →</a>
+        <a href="./heatquest/game/index.html">🎮 Game</a>
+        <a href="./heatquest/index.html">🎬 Video</a>
+        <a href="./heatquest/guide.html">📄 Guide</a>
+      </div>
+    </div>
+
+    <div class="game water">
+      <div class="stripe"></div>
+      <div class="ic">💧</div>
+      <div class="topic">P5 Cycles</div>
+      <h2>The Water Cycle</h2>
+      <p>Evaporation, condensation, the water cycle, and how rain is really made.</p>
+      <div class="links">
+        <a class="play" href="./waterquest/index.html">Open topic →</a>
+        <a href="./waterquest/game/index.html">🎮 Game</a>
+        <a href="./waterquest/index.html">🎬 Video</a>
+        <a href="./waterquest/guide.html">📄 Guide</a>
+      </div>
+    </div>
+
+    <div class="game plant">
+      <div class="stripe"></div>
+      <div class="ic">🌱</div>
+      <div class="topic">P5 Plant System</div>
+      <h2>Photosynthesis</h2>
+      <p>What plants need, the starch test, and photosynthesis vs respiration.</p>
+      <div class="links">
+        <a class="play" href="./plantquest/index.html">Open topic →</a>
+        <a href="./plantquest/game/index.html">🎮 Game</a>
+        <a href="./plantquest/index.html">🎬 Video</a>
+        <a href="./plantquest/guide.html">📄 Guide</a>
+      </div>
+    </div>
+
+    <div class="game body">
+      <div class="stripe"></div>
+      <div class="ic">🫀</div>
+      <div class="topic">P5 Systems</div>
+      <h2>Respiratory &amp; Circulatory</h2>
+      <p>Breathing, gaseous exchange, the heart, blood, and how the systems work together.</p>
+      <div class="links">
+        <a class="play" href="./bodyquest/index.html">Open topic →</a>
+        <a href="./bodyquest/game/index.html">🎮 Game</a>
+        <a href="./bodyquest/index.html">🎬 Video</a>
+        <a href="./bodyquest/guide.html">📄 Guide</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="how">
+    <h3>Everything you need for each topic</h3>
+    <div class="rows">
+      <div class="r"><div class="e">🎬</div><b>Watch</b><span>A narrated video walk-through with captions.</span></div>
+      <div class="r"><div class="e">📄</div><b>Read</b><span>A study guide with exam traps and answer formulas.</span></div>
+      <div class="r"><div class="e">🎮</div><b>Play</b><span>A game with power-ups — solo or duel a friend.</span></div>
+    </div>
+  </div>
+
+  <div class="foot">
+    <p>Made for <b>PSLE Science</b> revision · aligned to the MOE Primary syllabus.</p>
+    <p>Every answer explains the science, so you learn while you play. No sign-up, no ads — just learn.</p>
+  </div>
+</div>
+
+<script>
+const ems=["🔥","💧","🌱","🫀","☀️","💨","🧊","🍃","❤️","🌡️"];
+const fx=document.getElementById("bgfx");
+for(let i=0;i<16;i++){
+  const s=document.createElement("span");
+  s.textContent=ems[i%ems.length];
+  s.style.left=Math.random()*100+"vw";
+  s.style.animationDuration=(9+Math.random()*12)+"s";
+  s.style.animationDelay=(-Math.random()*12)+"s";
+  s.style.fontSize=(1+Math.random()*1.4)+"rem";
+  fx.appendChild(s);
+}
+</script>
+</body>
+</html>

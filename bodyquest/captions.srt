@@ -1,0 +1,343 @@
+1
+00:00:01,000 --> 00:00:01,891
+Welcome back!
+
+2
+00:00:01,891 --> 00:00:08,128
+Today we're revising two systems that work as a team: the respiratory system and the circul
+
+3
+00:00:08,128 --> 00:00:09,019
+atory system.
+
+4
+00:00:09,019 --> 00:00:14,846
+We'll follow oxygen all the way from the air you breathe to the muscles in your legs,
+
+5
+00:00:14,846 --> 00:00:17,930
+and learn the exact phrases that score marks.
+
+6
+00:00:18,930 --> 00:00:21,102
+First, what each system is for.
+
+7
+00:00:21,102 --> 00:00:27,125
+The respiratory system lets us breathe: it takes in oxygen and removes carbon dioxide.
+
+8
+00:00:27,125 --> 00:00:33,008
+The circulatory system transports oxygen and digested food to all parts of the body,
+
+9
+00:00:33,008 --> 00:00:36,370
+and carries wastes away. Now, an important trap.
+
+10
+00:00:36,370 --> 00:00:41,273
+Breathing means taking air in and pushing air out — a physical action.
+
+11
+00:00:41,273 --> 00:00:47,366
+Respiration means releasing energy from digested food, using oxygen, inside every cell.
+
+12
+00:00:47,366 --> 00:00:52,830
+They are not the same! We breathe to supply the oxygen needed for respiration.
+
+13
+00:00:53,830 --> 00:00:58,243
+Let's follow the path air takes: nose, then windpipe, then lungs,
+
+14
+00:00:58,243 --> 00:00:59,940
+and finally the air sacs.
+
+15
+00:00:59,940 --> 00:01:03,267
+At the nose, hairs and mucus trap dust and germs,
+
+16
+00:01:03,267 --> 00:01:06,323
+and the nose also warms and moistens the air.
+
+17
+00:01:06,323 --> 00:01:12,094
+The windpipe, or trachea, is a tube that carries air from the nose down to the lungs.
+
+18
+00:01:12,094 --> 00:01:16,440
+The lungs are the two organs where gaseous exchange takes place.
+
+19
+00:01:16,440 --> 00:01:18,680
+And inside them are the air sacs,
+
+20
+00:01:18,680 --> 00:01:22,687
+where oxygen enters the blood and carbon dioxide leaves it.
+
+21
+00:01:23,687 --> 00:01:28,748
+When we breathe in, air with more oxygen enters, and the chest expands.
+
+22
+00:01:28,748 --> 00:01:34,593
+When we breathe out, air with more carbon dioxide leaves, and the chest contracts.
+
+23
+00:01:34,593 --> 00:01:39,939
+Now here's a trap that catches many pupils: inhaled air is not pure oxygen,
+
+24
+00:01:39,939 --> 00:01:43,004
+and exhaled air is not pure carbon dioxide.
+
+25
+00:01:43,004 --> 00:01:46,711
+Inhaled air has more oxygen and less carbon dioxide.
+
+26
+00:01:46,711 --> 00:01:50,418
+Exhaled air has less oxygen and more carbon dioxide.
+
+27
+00:01:50,418 --> 00:01:54,409
+Both gases are always present — only the amounts change.
+
+28
+00:01:55,410 --> 00:01:59,230
+Here's the key idea of the whole topic: gaseous exchange.
+
+29
+00:01:59,230 --> 00:02:04,123
+Memorise this: oxygen from the air in the air sacs passes into the blood.
+
+30
+00:02:04,123 --> 00:02:09,016
+At the same time, carbon dioxide from the blood passes into the air sacs,
+
+31
+00:02:09,016 --> 00:02:13,172
+and is breathed out. And why are the air sacs so good at this?
+
+32
+00:02:13,172 --> 00:02:17,461
+Because there are millions of them, giving a large surface area,
+
+33
+00:02:17,461 --> 00:02:20,076
+so gaseous exchange can happen quickly.
+
+34
+00:02:21,076 --> 00:02:25,355
+Now the circulatory system. The heart is a pump, made of muscle.
+
+35
+00:02:25,355 --> 00:02:29,233
+It pumps blood to all parts of the body, without stopping.
+
+36
+00:02:29,233 --> 00:02:32,041
+When the heart beats, we can feel a pulse.
+
+37
+00:02:32,041 --> 00:02:37,390
+And here's the trap: the heart does not make blood, and it does not make oxygen.
+
+38
+00:02:37,390 --> 00:02:43,208
+Its job is to pump the blood, so that the blood can transport oxygen and digested food.
+
+39
+00:02:44,208 --> 00:02:45,990
+So what does the blood carry?
+
+40
+00:02:45,990 --> 00:02:49,924
+Oxygen, picked up at the lungs, and delivered to all body parts.
+
+41
+00:02:49,924 --> 00:02:54,904
+Digested food, picked up at the small intestine, and delivered to all body parts.
+
+42
+00:02:54,904 --> 00:02:57,854
+And carbon dioxide, picked up at the body parts,
+
+43
+00:02:57,854 --> 00:03:00,990
+and delivered back to the lungs to be breathed out.
+
+44
+00:03:00,990 --> 00:03:04,432
+The blood flows through tiny tubes called blood vessels,
+
+45
+00:03:04,432 --> 00:03:09,227
+which reach every part of the body, so every cell can receive oxygen and food,
+
+46
+00:03:09,227 --> 00:03:10,641
+and give up its wastes.
+
+47
+00:03:11,641 --> 00:03:16,993
+Now let's put the systems together — this is very important for the PSLE.
+
+48
+00:03:16,993 --> 00:03:21,686
+One: we breathe in, and oxygen enters the air sacs in the lungs.
+
+49
+00:03:21,686 --> 00:03:26,012
+Two: the oxygen passes into the blood, by gaseous exchange.
+
+50
+00:03:26,012 --> 00:03:30,264
+Three: the heart pumps the blood, transporting the oxygen,
+
+51
+00:03:30,264 --> 00:03:35,324
+and digested food from the small intestine, to all parts of the body.
+
+52
+00:03:35,324 --> 00:03:41,409
+Four: the body cells use the oxygen and food to release energy. That's respiration.
+
+53
+00:03:41,409 --> 00:03:46,102
+Five: this produces carbon dioxide, which passes into the blood.
+
+54
+00:03:46,102 --> 00:03:51,308
+And six: the blood carries it back to the lungs, and we breathe it out.
+
+55
+00:03:52,308 --> 00:03:54,331
+So why do we pant when we run?
+
+56
+00:03:54,331 --> 00:04:00,064
+Because the muscles are working harder, they need more oxygen to release more energy.
+
+57
+00:04:00,064 --> 00:04:05,932
+So we breathe faster and deeper, to take in more oxygen and remove more carbon dioxide.
+
+58
+00:04:05,932 --> 00:04:12,003
+And the heart beats faster, to pump the oxygen-carrying blood to the muscles more quickly.
+
+59
+00:04:12,003 --> 00:04:16,927
+Always link it back: more oxygen, to the muscles, to release more energy.
+
+60
+00:04:17,927 --> 00:04:24,173
+Answering technique for Section B. Use these keywords: gaseous exchange. Air sacs.
+
+61
+00:04:24,173 --> 00:04:29,658
+Large surface area. Oxygen passes into the blood. The heart pumps blood.
+
+62
+00:04:29,658 --> 00:04:36,438
+Transports, or carries. Digested food from the small intestine. To all parts of the body.
+
+63
+00:04:36,438 --> 00:04:37,962
+And, release energy.
+
+64
+00:04:37,962 --> 00:04:43,599
+Then use the system-link formula: oxygen enters the blood at the air sacs.
+
+65
+00:04:43,599 --> 00:04:49,694
+The heart pumps the blood, which transports the oxygen to all parts of the body,
+
+66
+00:04:49,694 --> 00:04:52,360
+where it is used to release energy.
+
+67
+00:04:53,360 --> 00:04:54,824
+Time to test yourself!
+
+68
+00:04:54,824 --> 00:04:59,683
+Explain how oxygen in the air we breathe reaches the muscles in our legs.
+
+69
+00:04:59,683 --> 00:05:01,747
+Pause the video and try. Ready?
+
+70
+00:05:01,747 --> 00:05:07,804
+Here's the model answer: oxygen enters the air sacs in the lungs and passes into the blood.
+
+71
+00:05:07,804 --> 00:05:13,862
+The heart pumps the blood, which transports the oxygen through the blood vessels to the mus
+
+72
+00:05:13,862 --> 00:05:14,993
+cles in the legs.
+
+73
+00:05:15,993 --> 00:05:21,665
+Let's recap. The respiratory system takes in oxygen and removes carbon dioxide.
+
+74
+00:05:21,665 --> 00:05:27,696
+The air path is nose, windpipe, lungs, air sacs — and the nose traps dust and germs.
+
+75
+00:05:27,696 --> 00:05:33,727
+Gaseous exchange happens at the air sacs: oxygen into the blood, carbon dioxide out.
+
+76
+00:05:33,727 --> 00:05:37,102
+Millions of air sacs give a large surface area.
+
+77
+00:05:37,102 --> 00:05:42,702
+Inhaled air has more oxygen; exhaled air has more carbon dioxide — never pure!
+
+78
+00:05:42,702 --> 00:05:47,656
+The circulatory system is the heart, the blood vessels and the blood.
+
+79
+00:05:47,656 --> 00:05:50,384
+The heart pumps; the blood transports.
+
+80
+00:05:50,384 --> 00:05:56,846
+Blood carries oxygen from the lungs and digested food from the small intestine to all body
+
+81
+00:05:56,846 --> 00:05:57,277
+parts.
+
+82
+00:05:57,277 --> 00:06:03,308
+And when we exercise, the muscles need more oxygen, so we breathe faster and deeper,
+
+83
+00:06:03,308 --> 00:06:05,246
+and the heart beats faster.
+
+84
+00:06:06,246 --> 00:06:11,542
+You've got this! Remember: the heart pumps, and the blood transports.
+
+85
+00:06:11,542 --> 00:06:17,604
+Link the systems together in your answers, and those Section B marks are yours.
+
+86
+00:06:17,604 --> 00:06:21,902
+Good luck with your revision, and all the best for PSLE!
