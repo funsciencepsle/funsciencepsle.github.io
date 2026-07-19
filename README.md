@@ -1,6 +1,6 @@
 # Fun Science PSLE — Videos, Study Guides & Games
 
-Free PSLE Science revision for Primary 5 & 6, aligned to the MOE syllabus.
+Free PSLE Science revision for all levels, aligned to the MOE syllabus.
 Each topic has a narrated video, a study guide, and a game (solo or duel).
 
 ## Live site
