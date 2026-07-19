@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Fun Science PSLE — Videos, Study Guides & Games</title>
-<meta name="description" content="Free PSLE Science revision for Primary 5 & 6 — narrated videos, study guides and games for Heat, Water Cycle, Photosynthesis, and the Human Body.">
+<meta name="description" content="Free PSLE Science revision — narrated videos, study guides and games for Heat, Water Cycle, Photosynthesis, and the Human Body.">
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
 :root{
@@ -24,7 +24,28 @@ a{text-decoration:none; color:inherit;}
 @keyframes drift{to{transform:translate(30px,26px) scale(1.08);}}
 
 .wrap{max-width:920px; margin:0 auto; padding:24px 18px 80px; position:relative; z-index:1;}
-.hero{text-align:center; padding:30px 10px 10px;}
+.herobanner{position:relative; margin-top:14px; border-radius:28px; padding:34px 20px 30px; overflow:hidden; text-align:center;
+  background:linear-gradient(120deg,#ff6b93,#ffb648,#5cc46a,#4fa3e8,#7c7fe0);
+  background-size:300% 300%; animation:flow 12s ease infinite;
+  box-shadow:0 12px 40px rgba(63,66,171,.28);}
+@keyframes flow{0%{background-position:0% 50%;}50%{background-position:100% 50%;}100%{background-position:0% 50%;}}
+.mascots{display:flex; justify-content:center; gap:14px; flex-wrap:wrap;}
+.mchar{width:78px; height:78px; filter:drop-shadow(0 5px 8px rgba(0,0,0,.18));}
+.mchar svg{width:100%; height:100%;}
+.m-flame{animation:hop 1.8s ease-in-out infinite;}
+.m-drop {animation:hop 1.8s ease-in-out infinite .45s;}
+.m-leaf {animation:hop 1.8s ease-in-out infinite .9s;}
+.m-heart{animation:hop 1.8s ease-in-out infinite 1.35s;}
+@keyframes hop{0%,100%{transform:translateY(0) rotate(-4deg);}50%{transform:translateY(-16px) rotate(4deg);}}
+.rainbow{margin-top:14px; font-size:clamp(2.6rem,9vw,4.2rem); font-weight:800; line-height:1; color:#fff;
+  text-shadow:0 3px 0 rgba(0,0,0,.12), 0 6px 18px rgba(0,0,0,.18); letter-spacing:.5px;}
+.psle-badge{display:inline-block; margin-top:12px; background:rgba(255,255,255,.95); color:var(--indigo);
+  font-weight:800; font-size:1rem; letter-spacing:.14em; text-transform:uppercase; padding:8px 22px; border-radius:999px;
+  box-shadow:0 4px 12px rgba(0,0,0,.15);}
+.sparkles{position:absolute; inset:0; pointer-events:none;}
+.sparkles i{position:absolute; color:#fff; opacity:.9; animation:twinkle 2.4s ease-in-out infinite;}
+@keyframes twinkle{0%,100%{transform:scale(.4); opacity:0;}50%{transform:scale(1); opacity:.95;}}
+.hero{text-align:center; padding:22px 10px 10px;}
 .mascot{width:120px;height:120px;margin:0 auto;animation:bob 2.6s ease-in-out infinite;}
 @keyframes bob{0%,100%{transform:translateY(0) rotate(-2deg);}50%{transform:translateY(-12px) rotate(2deg);}}
 .hero h1{font-size:clamp(2.4rem,8vw,3.6rem); font-weight:800; color:var(--indigo); line-height:1.05; margin-top:6px;}
@@ -66,16 +87,26 @@ a{text-decoration:none; color:inherit;}
 <div class="blob b1"></div><div class="blob b2"></div>
 
 <div class="wrap">
+  <div class="herobanner">
+    <div class="sparkles" id="sparkles"></div>
+    <div class="mascots">
+      <div class="mchar m-flame">
+        <svg viewBox="0 0 100 100"><path d="M50 8 C60 30 80 38 80 62 A30 30 0 1 1 20 62 C20 42 34 38 38 22 C44 32 48 30 50 8 Z" fill="#ffb648" stroke="#fff" stroke-width="4" stroke-linejoin="round"/><path d="M50 46 C56 56 66 60 66 72 A16 16 0 1 1 34 72 C34 62 44 58 50 46 Z" fill="#ff7a3c"/><circle cx="43" cy="70" r="3.4" fill="#3a2a10"/><circle cx="57" cy="70" r="3.4" fill="#3a2a10"/><path d="M44 78 Q50 83 56 78" stroke="#3a2a10" stroke-width="3" fill="none" stroke-linecap="round"/></svg>
+      </div>
+      <div class="mchar m-drop">
+        <svg viewBox="0 0 100 100"><path d="M50 10 C64 34 84 50 84 70 A34 34 0 1 1 16 70 C16 50 36 34 50 10 Z" fill="#4fa3e8" stroke="#fff" stroke-width="4" stroke-linejoin="round"/><ellipse cx="38" cy="58" rx="7" ry="12" fill="#fff" opacity=".5"/><circle cx="43" cy="74" r="3.4" fill="#0b3a5e"/><circle cx="57" cy="74" r="3.4" fill="#0b3a5e"/><path d="M44 82 Q50 87 56 82" stroke="#0b3a5e" stroke-width="3" fill="none" stroke-linecap="round"/></svg>
+      </div>
+      <div class="mchar m-leaf">
+        <svg viewBox="0 0 100 100"><path d="M50 62 C30 62 16 48 16 28 C40 28 50 42 50 62 Z" fill="#5cc46a" stroke="#fff" stroke-width="4" stroke-linejoin="round"/><path d="M50 54 C70 54 84 40 84 20 C60 20 50 34 50 54 Z" fill="#3fae53" stroke="#fff" stroke-width="4" stroke-linejoin="round"/><rect x="46" y="58" width="8" height="34" rx="4" fill="#8a6a4a"/><circle cx="40" cy="40" r="3.2" fill="#123a1a"/><circle cx="58" cy="40" r="3.2" fill="#123a1a"/><path d="M41 47 Q49 53 57 47" stroke="#123a1a" stroke-width="3" fill="none" stroke-linecap="round"/></svg>
+      </div>
+      <div class="mchar m-heart">
+        <svg viewBox="0 0 100 100"><path d="M50 84 C18 60 24 32 42 32 C50 32 50 40 50 44 C50 40 50 32 58 32 C76 32 82 60 50 84 Z" fill="#ff6b93" stroke="#fff" stroke-width="4" stroke-linejoin="round"/><circle cx="42" cy="52" r="3.4" fill="#fff"/><circle cx="58" cy="52" r="3.4" fill="#fff"/><circle cx="42" cy="52" r="1.6" fill="#5a1730"/><circle cx="58" cy="52" r="1.6" fill="#5a1730"/><path d="M43 62 Q50 68 57 62" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round"/></svg>
+      </div>
+    </div>
+    <h1 class="rainbow">Fun Science</h1>
+    <div class="psle-badge">PSLE Revision</div>
+  </div>
   <div class="hero">
-    <svg class="mascot" viewBox="0 0 120 120">
-      <defs><linearGradient id="mg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7c7fe0"/><stop offset="1" stop-color="#3f42ab"/></linearGradient></defs>
-      <circle cx="60" cy="60" r="46" fill="url(#mg)" stroke="#232742" stroke-width="4"/>
-      <circle cx="46" cy="54" r="7" fill="#fff"/><circle cx="74" cy="54" r="7" fill="#fff"/>
-      <circle cx="46" cy="55" r="3.4" fill="#232742"/><circle cx="74" cy="55" r="3.4" fill="#232742"/>
-      <path d="M44 74 Q60 88 76 74" stroke="#fff" stroke-width="4.5" fill="none" stroke-linecap="round"/>
-      <path d="M60 8 L60 20 M30 20 L37 28 M90 20 L83 28" stroke="#f59e0b" stroke-width="4" stroke-linecap="round"/>
-    </svg>
-    <h1>Fun Science <em>PSLE</em></h1>
     <p class="tag">Free Primary Science revision — narrated <b>videos</b>, printable <b>study guides</b>, and fun <b>games</b> for every topic.</p>
     <p class="sub">🎬 Watch · 📄 Read · 🎮 Play solo or duel a friend</p>
   </div>
@@ -84,7 +115,7 @@ a{text-decoration:none; color:inherit;}
     <div class="game heat">
       <div class="stripe"></div>
       <div class="ic">🔥</div>
-      <div class="topic">P5 Energy</div>
+      <div class="topic">Energy</div>
       <h2>Heat &amp; Its Effects</h2>
       <p>Heat vs temperature, how heat travels, expansion, change of state, conductors &amp; insulators.</p>
       <div class="links">
@@ -98,7 +129,7 @@ a{text-decoration:none; color:inherit;}
     <div class="game water">
       <div class="stripe"></div>
       <div class="ic">💧</div>
-      <div class="topic">P5 Cycles</div>
+      <div class="topic">Cycles</div>
       <h2>The Water Cycle</h2>
       <p>Evaporation, condensation, the water cycle, and how rain is really made.</p>
       <div class="links">
@@ -112,7 +143,7 @@ a{text-decoration:none; color:inherit;}
     <div class="game plant">
       <div class="stripe"></div>
       <div class="ic">🌱</div>
-      <div class="topic">P5 Plant System</div>
+      <div class="topic">Plant System</div>
       <h2>Photosynthesis</h2>
       <p>What plants need, the starch test, and photosynthesis vs respiration.</p>
       <div class="links">
@@ -126,7 +157,7 @@ a{text-decoration:none; color:inherit;}
     <div class="game body">
       <div class="stripe"></div>
       <div class="ic">🫀</div>
-      <div class="topic">P5 Systems</div>
+      <div class="topic">Systems</div>
       <h2>Respiratory &amp; Circulatory</h2>
       <p>Breathing, gaseous exchange, the heart, blood, and how the systems work together.</p>
       <div class="links">
@@ -164,6 +195,16 @@ for(let i=0;i<16;i++){
   s.style.animationDelay=(-Math.random()*12)+"s";
   s.style.fontSize=(1+Math.random()*1.4)+"rem";
   fx.appendChild(s);
+}
+const sp=document.getElementById("sparkles");
+for(let i=0;i<14;i++){
+  const s=document.createElement("i");
+  s.textContent="✦";
+  s.style.left=Math.random()*100+"%";
+  s.style.top=Math.random()*100+"%";
+  s.style.fontSize=(8+Math.random()*16)+"px";
+  s.style.animationDelay=(Math.random()*2.4)+"s";
+  sp.appendChild(s);
 }
 </script>
 </body>
